@@ -54,30 +54,31 @@ trade your best NFT tokens. Wallet will generate an address for the transaction 
 <table>
   <tr>
     <td><img src="https://i.ibb.co/R767fHV/Picture1.png"/></td>
+    <td><img src="https://i.ibb.co/3mjztvZ/Picture2.png"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/3mjztvZ/Picture2.png"/></td>
     <td><img src="https://i.ibb.co/1zcz60d/Picture3.png"/></td>
     <td><img src="https://i.ibb.co/YdXvDsg/Picture4.png"/></td>
   </tr>
   <tr>
     <td><img src="https://i.ibb.co/5jjGL0k/Picture5.png"/></td>
+    <td><img src="https://i.ibb.co/ZcvXh1f/Picture6.png"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/ZcvXh1f/Picture6.png"/></td>
     <td><img src="https://i.ibb.co/R30bWwx/Picture7.png"/></td>
-  </tr>
-   <tr>
     <td><img src="https://i.ibb.co/p1wRXpD/Picture8.png"/></td>
+  </tr>
+   <tr>
     <td><img src="https://i.ibb.co/Zx7gj4w/Picture9.png"/></td>
+     <td><img src="https://i.ibb.co/m5tdktj/Picture10.png"/></td>
   </tr>
    <tr>
-    <td><img src="https://i.ibb.co/m5tdktj/Picture10.png"/></td>
     <td><img src="https://i.ibb.co/bbRCBmK/Picture11.png"/></td>
+    <td><img src="https://i.ibb.co/9qGzvXL/Picture12.png"/></td>
   </tr>
    <tr>
-    <td><img src="https://i.ibb.co/9qGzvXL/Picture12.png"/></td>
     <td><img src="https://i.ibb.co/2NLxfph/Picture13.png"/></td>
+    <td></td>
   </tr>
 </table>
 
